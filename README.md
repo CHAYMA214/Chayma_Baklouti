@@ -1,3 +1,5 @@
+
+# run thise code 
 import base64 as b
 
 print("🎉 " + b.b64decode("SGVsbG8gdG8gbXkgV29ybGQ=").decode() + " 🌍")
